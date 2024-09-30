@@ -80,7 +80,6 @@ The web application was developed using Streamlit, which allows users to input m
 - Input options for batting and bowling teams, current runs, wickets, overs, runs, and wickets in the last 5 overs.
 - Display of the predicted score based on current inputs.
 
-![Streamlit App](https://github.com/zep-analytics/IPLScorePredictor/blob/main/streamlit_app/ipl_score_predictor.gif)
 
 ## Installation
 
@@ -88,8 +87,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/zep-analytics/IPLScorePredictor.git
-   cd IPLScorePredictor
+   git clone https://github.com/HIMANSHIMANGLA/IPL-Score-Predictor.git
+   cd IPL-Score-Predictor
    ```
 
 2. **Install the Required Dependencies:**
